@@ -1,6 +1,7 @@
 # Auto Dark Mode - Chrome Eklentisi 🌙
 
-**Auto Dark Mode**, tarayıcınızda otomatik olarak koyu modu etkinleştiren ve kullanıcıların belirli siteleri hariç tutmasına olanak tanıyan bir Chrome eklentisidir. Bu eklenti, göz yorgunluğunu azaltır ve gece geç saatlerde daha rahat bir tarama deneyimi sunar.
+**Auto Dark Mode**, tarayıcınızda otomatik olarak koyu modu etkinleştiren ve kullanıcıların belirli siteleri hariç tutmasına olanak tanıyan bir Chrome eklentisidir. 
+Bu eklenti, göz yorgunluğunu azaltır ve gece geç saatlerde daha rahat bir tarama deneyimi sunar.
 
 ---
 
