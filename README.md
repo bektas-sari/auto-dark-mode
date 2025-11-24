@@ -83,7 +83,7 @@ Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz! Katkıda bulunmak
 
 ---
 
-## 👤 Developer
+## 👤 Geliştirici
 
 **Bektaş Sarı**<br>
 PhD in Advertising, AI + Creativity researcher<br>
